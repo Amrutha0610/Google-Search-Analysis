@@ -56,8 +56,8 @@ manually install pandas, matplotlib, requests, beautifulsoup4, pytrends
 
 ## How to Run
 ### Option 1: Google Colab
-Upload the notebook to Google Colab
-Run each cell sequentially
+- Upload the notebook to Google Colab
+- Run each cell sequentially
 
 ### Option 2: Local Jupyter Notebook
 ``` bash
