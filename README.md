@@ -37,17 +37,23 @@ Key functionalities include:
 git clone https://github.com/Amrutha0610/google-search-analysis.git
 cd google-search-analysis
 
+---
+
 ### 2. Create and Activate Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate       # Mac/Linux
 venv\Scripts\activate          # Windows
 
+---
+
 ### 3. Install dependencies
 ''' bash
 pip install -r requirements.txt
 or 
 manually install pandas, matplotlib, requests, beautifulsoup4, pytrends
+
+---
 
 ## How to Run
 ### Option 1: Google Colab
@@ -59,11 +65,15 @@ Run each cell sequentially
 ''' bash
 jupyter notebook Google_Search_Analysis_with_Python.ipynb
 
+---
+
 ''' bash
 Run through the notebook to:
 - Enter keywords
 - Fetch search data
 - Clean and visualize the results
+
+---
 
 ## What I Learned
 ''' bash
@@ -71,3 +81,5 @@ Run through the notebook to:
 - Cleaning and preprocessing textual data
 - Plotting and visualizing search results effectively
 - Structuring and documenting projects professionally
+
+---
