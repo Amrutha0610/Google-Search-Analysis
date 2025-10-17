@@ -37,10 +37,9 @@ Key functionalities include:
 git clone https://github.com/Amrutha0610/google-search-analysis.git
 cd google-search-analysis
 
----
 
 ### 2. Create and Activate Virtual Environment
-```bash
+
 python -m venv venv
 source venv/bin/activate       # Mac/Linux
 venv\Scripts\activate          # Windows
