@@ -33,7 +33,7 @@ Key functionalities include:
 ## Setup & Installation
 
 ### 1. Clone the Repository
-''' bash
+""" bash
 git clone https://github.com/Amrutha0610/google-search-analysis.git
 cd google-search-analysis
 
