@@ -13,7 +13,7 @@ Key functionalities include:
 
 ---
 
-## ✨ Features
+## Features
 - Fetch and analyze search results for custom keywords  
 - Clean and preprocess data for better visualization  
 - Generate plots showing search frequency and trends  
