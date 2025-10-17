@@ -43,6 +43,31 @@ python -m venv venv
 source venv/bin/activate       # Mac/Linux
 venv\Scripts\activate          # Windows
 
-### 3. 
+### 3. Install dependencies
+''' bash
+pip install -r requirements.txt
+or 
+manually install pandas, matplotlib, requests, beautifulsoup4, pytrends
 
+## How to Run
+### Option 1: Google Colab
+''' bash
+Upload the notebook to Google Colab
+Run each cell sequentially
 
+### Option 2: Local Jupyter Notebook
+''' bash
+jupyter notebook Google_Search_Analysis_with_Python.ipynb
+
+''' bash
+Run through the notebook to:
+- Enter keywords
+- Fetch search data
+- Clean and visualize the results
+
+## What I Learned
+''' bash
+- Using Python libraries for web scraping and trends analysis
+- Cleaning and preprocessing textual data
+- Plotting and visualizing search results effectively
+- Structuring and documenting projects professionally
