@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to **analyze Google search queries** programmatically using Python.  
 It explores how to fetch search trends, process and clean the data, and visualize useful insights.  
-The project was inspired by a tutorial on [GeeksforGeeks](https://www.geeksforgeeks.org/) and further customized for learning purposes.
+
 
 Key functionalities include:
 - Automating Google search analysis
@@ -25,7 +25,7 @@ Key functionalities include:
 - **Python 3.8+**
 - `pandas` — Data handling  
 - `matplotlib` — Data visualization  
-- `requests` / `beautifulsoup4` — Web scraping (if applicable)  
+- `requests` / `beautifulsoup4` — Web scraping 
 - `pytrends` — Google Trends API (optional)
 
 ---
