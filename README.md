@@ -17,7 +17,7 @@ Key functionalities include:
 - Fetch and analyze search results for custom keywords  
 - Clean and preprocess data for better visualization  
 - Generate plots showing search frequency and trends  
-- imple, lightweight code — perfect for learning automation and data analysis
+- imple, lightweight code 
 
 ---
 
@@ -72,6 +72,5 @@ Run through the notebook to:
 - Using Python libraries for web scraping and trends analysis
 - Cleaning and preprocessing textual data
 - Plotting and visualizing search results effectively
-- Structuring and documenting projects professionally
 
 ---
